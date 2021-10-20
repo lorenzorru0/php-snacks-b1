@@ -1,0 +1,10 @@
+.boxGray {
+    border: 3px solid gray;
+}
+.boxGreen {
+    border: 3px solid green;
+}
+.boxGreen, .boxGray {
+    padding: .625rem;
+    margin: .625rem;
+}
